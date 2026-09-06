@@ -64,4 +64,4 @@ Please adhere to the structure of the original LLM workshop code as closely as p
 
 ## Supporting resouces
 
-- 7.3 Tutorial Notebook
+- w7-tutorial.ipynb
