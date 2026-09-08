@@ -4,8 +4,6 @@ from torch.nn import functional as F
 import random
 import math
 import re
-import os
-import pickle
 
 pad_token = "[PAD]"
 eos_token = "[EOS]"

@@ -34,7 +34,7 @@ Once your models are trained, conduct a formal evaluation to compare the Forward
 
 As a general performance expectation, both successfully trained model should achieve overall accuracy 78% or higher on the held-out test set.
 
-Overall  accuracy:
+Overall accuracy:
 
 $$Acc_{overall} = \frac{1}{N} \sum_{i=1}^N l(\hat y_i = y_i)$$
 
